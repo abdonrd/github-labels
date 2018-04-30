@@ -50,7 +50,7 @@
     "description": ""
   },
   {
-    "name": "status: wontfix",
+    "name": "status: wont do/fix",
     "color": "ffffff",
     "description": "This will not be worked on"
   },
