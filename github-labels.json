@@ -5,6 +5,11 @@
     "description": "Good for newcomers"
   },
   {
+    "name": "help wanted",
+    "color": "008672",
+    "description": "Extra attention is needed"
+  },
+  {
     "name": "priority: critical",
     "color": "b60205",
     "description": ""
@@ -83,11 +88,6 @@
     "name": "type: feature request",
     "color": "fbca04",
     "description": "New feature or request"
-  },
-  {
-    "name": "type: help wanted",
-    "color": "008672",
-    "description": "Extra attention is needed"
   },
   {
     "name": "type: question",
