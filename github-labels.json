@@ -75,6 +75,11 @@
     "description": ""
   },
   {
+    "name": "type: epic",
+    "color": "3E4B9E",
+    "description": "A theme of work that contain sub-tasks"
+  },
+  {
     "name": "type: feature request",
     "color": "fbca04",
     "description": "New feature or request"
