@@ -11,3 +11,5 @@ If the project requires it, it is advisable to add some source tags:
 ## Demo
 
 You can find a demo [here in this same repository](https://github.com/abdonrd/github-labels/labels).
+
+![GitHub labels](github-labels.png)
