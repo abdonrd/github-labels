@@ -45,11 +45,6 @@
     "description": "This issue or pull request already exists"
   },
   {
-    "name": "status: have to reproduce",
-    "color": "077f53",
-    "description": ""
-  },
-  {
     "name": "status: needs information",
     "color": "fef2c0",
     "description": ""
