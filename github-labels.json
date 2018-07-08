@@ -31,7 +31,7 @@
   },
   {
     "name": "status: can't reproduce",
-    "color": "dda035",
+    "color": "fec1c1",
     "description": ""
   },
   {
@@ -50,7 +50,7 @@
     "description": ""
   },
   {
-    "name": "status: need more information",
+    "name": "status: needs information",
     "color": "fef2c0",
     "description": ""
   },
