@@ -26,8 +26,8 @@ cd github-labels
 
 npx github-labels -c ./github-labels.json abdonrd/freestylestats.com
 
-# Two-factor (Personal access token)
-# npx github-labels -c ./github-labels.json --token 2f11b0efdf11ab81a7 abdonrd/freestylestats.com
+# Two-factor
+# npx github-labels -c ./github-labels.json --token YOUR_PERSONAL_TOKEN abdonrd/freestylestats.com
 ```
 
 If the project requires it, it is advisable to add some source tags:
