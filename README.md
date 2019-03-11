@@ -1,15 +1,34 @@
 # GitHub labels
 
-A list of GitHub labels for reuse across projects.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+:label: A list of GitHub labels for reuse across projects.
+
+<div align="center">
+	<p>
+    <img src="github-labels.png" alt="labels">
+	</p>
+	<p>
+		<sub>:gift: Follow me on <a href="https://twitter.com/abdonrd"><code>Twitter</code></a> if you like this project</sub>
+	</p>
+</div>
+
+## Demo
+You can find a demo [here in this same repository](https://github.com/abdonrd/github-labels/labels).
+
+## Use
 You can use the [`github-labels` package](https://www.npmjs.com/package/github-labels)
-to import the labels to your project.
+to import the labels to your project. In example:
+
+```sh
+git clone https://github.com/abdonrd/github-labels
+cd github-labels
+
+npx github-labels -c ./github-labels.json abdonrd/freestylestats.com
+
+# Two-factor (Personal access token)
+# npx github-labels -c ./github-labels.json --token 2f11b0efdf11ab81a7 abdonrd/freestylestats.com
+```
 
 If the project requires it, it is advisable to add some source tags:
 `source: sourceName`.
-
-## Demo
-
-You can find a demo [here in this same repository](https://github.com/abdonrd/github-labels/labels).
-
-![GitHub labels](github-labels.png)
