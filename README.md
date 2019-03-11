@@ -14,10 +14,10 @@
 </div>
 
 ## Demo
-You can find a demo [here in this same repository](https://github.com/abdonrd/github-labels/labels).
+:eyes: You can find a demo [here in this same repository](https://github.com/abdonrd/github-labels/labels).
 
 ## Use
-You can use the [`github-labels` package](https://www.npmjs.com/package/github-labels)
+:rocket: You can use the [`github-labels` package](https://www.npmjs.com/package/github-labels)
 to import the labels to your project. In example:
 
 ```sh
