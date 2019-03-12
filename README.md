@@ -9,7 +9,7 @@
     <img src="github-labels.png" alt="labels">
 	</p>
 	<p>
-		<sub>:gift: Follow me on <a href="https://twitter.com/abdonrd"><code>Twitter</code></a> if you like this project</sub>
+		<sub>:gift: Ping me on <a href="https://twitter.com/abdonrd"><code>Twitter</code></a> if you like this project</sub>
 	</p>
 </div>
 
