@@ -1,7 +1,5 @@
 # GitHub labels
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 :label: A list of GitHub labels for reuse across projects.
 
 <div align="center">
