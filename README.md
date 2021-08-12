@@ -22,10 +22,10 @@ to import the labels to your project. In example:
 git clone https://github.com/abdonrd/github-labels
 cd github-labels
 
-npx github-labels -c ./github-labels.json abdonrd/freestylestats.com
+npx github-labels -c ./github-labels.json abdonrd/abdonrd.com
 
 # Two-factor
-# npx github-labels -c ./github-labels.json --token YOUR_PERSONAL_TOKEN abdonrd/freestylestats.com
+# npx github-labels -c ./github-labels.json --token YOUR_PERSONAL_TOKEN abdonrd/abdonrd.com
 ```
 
 If the project requires it, it is advisable to add some source tags:
